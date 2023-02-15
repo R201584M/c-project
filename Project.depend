@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671179259 source:c:\users\tcs ideapad 110\desktop\project\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
